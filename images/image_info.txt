@@ -1,0 +1,2 @@
+I used images from Imagenet (by Princeton University and Stanford University) to train my InceptionV3.
+Only developers with accounts have access to downloading these image sets.
