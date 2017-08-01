@@ -1,4 +1,5 @@
-# hotdog-or-not-hotdog
+# Hotdog or not hotdog
+![](https://media.giphy.com/media/3ohzdLB0sfj46rOJyM/source.gif)
 A simple hotdog/not hotdog classifier built through transfer learning on InceptionV3.
 All of the training images were taken from Imagenet (Princeton University and Stanford University). <br>
 ## Accuracy
